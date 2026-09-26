@@ -1,17 +1,1 @@
-# Dependencies
-node_modules/
 
-# Config rahasia
-config.json
-
-# Log
-*.log
-npm-debug.log*
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Editor
-.vscode/
-.idea/
