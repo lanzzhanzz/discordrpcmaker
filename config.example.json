@@ -1,0 +1,13 @@
+{
+  "clientId": "MASUKKAN_CLIENT_ID_KAMU",
+  "details": "🎧 Sedang bersantai",
+  "state": "✨ Menikmati waktu luang",
+  "largeImage": "denia",
+  "largeText": "Denia",
+  "smallImage": "denia1",
+  "smallText": "Denia 1",
+  "buttons": [
+    { "label": "🌐 Website", "url": "https://example.com" },
+    { "label": "💬 Kontak",  "url": "https://t.me/usernamekamu" }
+  ]
+}
